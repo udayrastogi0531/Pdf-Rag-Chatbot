@@ -1,11 +1,11 @@
 streamlit==1.40.0
 python-dotenv==1.0.0
+langchain==0.1.20
 langchain-groq==0.1.20
 langchain-core==0.3.0
 langchain-community==0.3.0
 langchain-text-splitters==0.3.0
 langchain-chroma==0.1.7
-langchain-classic==0.1.1
 langchain-huggingface==0.0.56
 chromadb==0.4.24
 google-protobuf==4.25.3
