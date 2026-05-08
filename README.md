@@ -80,7 +80,7 @@ streamlit run app.py
    GROQ_API_KEY = "gsk_..."
    ```
 5. Deploy and enjoy!
-
+Live Demo :   https://pdf-rag-chatbot-fqqjfsibwn4yws7zl7yamw.streamlit.app/
 ---
 
 ## 🤝 Contributing
